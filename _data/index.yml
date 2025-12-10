@@ -118,7 +118,7 @@
 - name: Charisma
   scope: /docs/abilities/charisma
 
-# using scope in apositive way
+# using scope in a positive way
 - name: Draconic Ancestry table
   scope: /docs/races/dragonborn
   url: /docs/races/dragonborn
