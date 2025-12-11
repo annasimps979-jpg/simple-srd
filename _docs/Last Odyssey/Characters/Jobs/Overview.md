@@ -6,4 +6,8 @@ The job a character currently occupies determines their role in combat.  While t
 
 In Last Odyssey, there are six distinct jobs:
 *  [Striker](Striker.md)
-*  
+*  [Caster](Caster.md)
+*  [Healer](Healer.md)
+*  [Defender](Defender.md)
+*  [Support](Support.md)
+*  [Saboteur](Saboteur.md)
